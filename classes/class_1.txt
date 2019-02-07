@@ -1,0 +1,18 @@
+Class: VisitorGroup
+
+Attributes:
+party size (integer)
+name (string)
+NumberOfChildren (integer)
+NumberOfAdults (integer)
+SeatingPreference (array)
+
+Methods:
+AskToBeSeated
+Order
+AddToOrder
+RequestToMove
+Eat
+Drink
+Talk
+Spill
