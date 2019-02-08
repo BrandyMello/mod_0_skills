@@ -1,0 +1,19 @@
+Class: Employee
+
+Attributes:
+Name (string)
+DOB (datetime)
+StartDate (datetime)
+SSN (integer)
+HoursWorked (integer)
+VacationDays (integer)
+UsedVacationDays (integer)
+SickDays (integer)
+UsedSickDays (integer)
+
+Methods
+CallInSick
+Work
+RequestVacation
+CashPaycheck
+WorkOvertime
