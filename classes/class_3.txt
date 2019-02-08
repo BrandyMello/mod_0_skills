@@ -1,0 +1,13 @@
+Class: Chefs
+
+Attributes:
+Type (array)
+ShiftHours (float)
+Name (string)
+Roster (array)
+
+Methods:
+Cook
+Prep
+Work
+RequestDayOff
